@@ -1,2 +1,2 @@
 # Weather-App
-Weather App for predicting the weather condition of  an area
+This is a Weather App for predicting the weather condition of  a particular goegraphical Area.
